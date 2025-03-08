@@ -16,7 +16,7 @@ This project presents a **Token Distribution System** for **Factory Labs**, enab
 
 ### Clone & Install
 ```bash
-git clone https://github.com/yourusername/token-distribution-system.git
+git clone https://github.com/joymutheu-dev/token-distribution-system.git
 cd token-distribution-system
 npm install
 
